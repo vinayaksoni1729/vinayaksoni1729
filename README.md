@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayaksoni1729
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate with ISRO
 - 📫 How to reach me vinayaksrdr@gmail.com
 
