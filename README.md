@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayaksoni1729&theme=" alt="vinayaksoni1729" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **goLang**
 
 - 📫 How to reach me **vinayaksrdr@gmail.com**
 - 👨‍💻 All of my projects are available at **https://vinayaksoni.vercel.app/**
